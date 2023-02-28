@@ -12,5 +12,3 @@ This website is for the Introduction to Digital Humanities Course. Built using t
 - RStudio
 - Introduction to Markdown
 - Github Desktop
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
