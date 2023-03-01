@@ -29,7 +29,7 @@ chatGPT Prompt with Jan 30 version:
 
 > Please write a 500 word digital literacy narrative from the perspective of a 20 year old university student taking an introductory course in digital humanities. Include the strategies they currently employ in their daily and academic lives for content creation, social interaction, as well as any platforms or software they use for research data management as well as data manipulation and analysis. Please offer your critical reflection on your current abilities, what you are discovering in the course as well as what you would like to learn.
 
-Response from chatGPT:
+### Response from chatGPT:
 
 As a 20 year old university student studying digital humanities, I am constantly learning about how to effectively utilize technology in my daily and academic life. Growing up in the digital age, I have always been familiar with various social media platforms and online tools for content creation. However, I never truly understood the potential of technology for research data management, data manipulation, and analysis until I started taking this introductory course in digital humanities.
 
@@ -44,3 +44,10 @@ The digital humanities course has opened my eyes to the vast array of technology
 Despite my prior experience with technology and my newfound knowledge from the digital humanities course, I still feel that my abilities in this area are limited. I am aware that there is so much more to learn, and I am excited to continue to expand my skills and knowledge in the field.
 
 In conclusion, my digital literacy journey as a university student taking an introductory course in digital humanities has been eye-opening and enriching. I have come to appreciate the potential of technology for research data management, data manipulation, and analysis, and I am eager to continue learning about how to effectively utilize these tools in my academic and professional life. While I have some basic skills in content creation and social interaction, I am aware that there is still much more to learn and I am eager to continue to expand my knowledge and abilities in this area.
+
+### My Response
+As a College Student in a post Covid-19 World, proficiency in using multiple digital tools is a must. As such I use multiple tools daily to prepare myself for day-to-day College life. I use Google Calendar as a scheduling tool. Memorizing class times and locations is not to tedious but why memorize when someone can remind you each time. 
+
+For written assignments I use both Microsoft Word and Google Docs. These help me conceptualize ideas, type them out and then format them for final submission. For submitting my assignment I use Adobe Acrobat to convert my text document into a portable document format(PDF) so that it can be opened on all digital platforms. Then
+
+Furthermore, since starting at University I have picked up multiple programming skills. Starting out with Python, I am now Proficient in C, C++, Rust, JavaScript, Kotlin. I have also learnt to use Python Libraries like pandas, requests, beautifulsoup4, numpy and selenium. These tools have been extremely useful in automating mundane, repetitive tasks. I have also learnt to use a versioning system to document and handle changes made to my code. I use Github for its widespread acceptance and easy to use desktop interface. To write and edit my code I use the Visual Studio Code editor. It is very much an IDE on steroids as it includes support for almost all popular languages as well as powerful debugging features.

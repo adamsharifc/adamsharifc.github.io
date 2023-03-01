@@ -12,3 +12,7 @@ This website is for the Introduction to Digital Humanities Course. Built using t
 - RStudio
 - Introduction to Markdown
 - Github Desktop
+
+## Assignment Link:
+
+- [Digital Literacy Narrative](/dln-assignment/)
