@@ -62,9 +62,9 @@ Searching for the images using their `Identifiers` on the source website reveale
 | The Cairo Postcard Trust | Publisher | Underwood and Underwood Publishers |
 | _None_ | Topic | Antiquities, Excavations (Archaeology) |
 | _None_ | Extent | 17.7 x 9 cm |
-| postcards | Genre(AAT) | _None_ |
-| _None_ | Acknowledgment | The Underwood & Underwood Egypt Stereoviews collection was donated by American University in Cairo President Richard F. Pedersen.|
-| _None_ | Original Identifier | 6|
+<!-- | postcards | Genre(AAT) | _None_ | -->
+<!-- | _None_ | Acknowledgment | The Underwood & Underwood Egypt Stereoviews collection was donated by American University in Cairo President Richard F. Pedersen.| -->
+<!-- | _None_ | Original Identifier | 6| -->
 
 
 _None_ indicates that the subject metadata does not exist for the relevant item
