@@ -16,9 +16,6 @@ permalink: /dlme-assignment/
 </div>
 
 
-
-<br></br>
-
 ## Digital Library of the Middle East Metadata Comparison
 
 | Illustrated | Metadata | Captured |
@@ -43,7 +40,6 @@ permalink: /dlme-assignment/
 
 _None_ indicates that the subject metadata does not exist for the relevant item
 
-<br></br>
 
 ## Metadata Comaprison
 The images selected are both of The Sphinx with the Great Pyramid of Giza in the foreground. While selecting the images my criteria were to select images that looked similar but were taken using different artistic approaches. As such, the first image is an illustrated Postcard while the second is a stereoscopic photograph with a roughly similar viewpoint. Indeed, with a few minor adjustments and editing the two images may be made to look like illustrated and photographic versions of each other. The first image is titled _Pyramid and Sphinx_. This title is probably taken from the top left corner of the Image. The second image is titled _Ruins of the Temple, Sphinx, and Great Pyramid, Egypt_. 
@@ -66,8 +62,8 @@ Searching for the images using their `Identifiers` on the source website reveale
 | _None_ | Topic | Antiquities, Excavations (Archaeology) |
 | _None_ | Extent | 17.7 x 9 cm
 | postcards | Genre(AAT) | _None_
-| _None_ | Acknowledgment | The Underwood & Underwood Egypt Stereoviews collection was donated by American University in Cairo President Richard F. Pedersen.
-| _None_ | Original Identifier | 6
+| _None_ | Acknowledgment | The Underwood & Underwood Egypt Stereoviews collection was donated by American University in Cairo President Richard F. Pedersen. |
+| _None_ | Original Identifier | 6|
 
 _None_ indicates that the subject metadata does not exist for the relevant item
 
