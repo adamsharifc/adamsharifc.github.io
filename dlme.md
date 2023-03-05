@@ -1,4 +1,3 @@
-
 ---
 title: "DLME Metadata Assignment"
 layout: post
@@ -6,6 +5,10 @@ excerpt: "DLME Metadata Assignment"
 sitemap: false
 permalink: /dlme-assignment/
 ---
+
+<!-- ![Illustrated Postcard](https://cdm15795.contentdm.oclc.org/digital/iiif/p15795coll21/1607/full/full/0/default.jpg "The Sphinx and the Pyramid of Cheops")
+
+![Captured Image Postcard](https://cdm15795.contentdm.oclc.org/digital/iiif/p15795coll8/15/full/full/0/default.jpg "Ruins of the Temple, Sphinx and Great Pyramid, Egypt.") -->
 
 <div style = 'display: flex'>
 <img src='https://cdm15795.contentdm.oclc.org/digital/iiif/p15795coll21/1607/full/full/0/default.jpg'>
