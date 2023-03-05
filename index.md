@@ -13,7 +13,7 @@ This website is for the Introduction to Digital Humanities Course. Built using t
 - Introduction to Markdown
 - Github Desktop
 
-## Assignment Link:
+## Assignment Links:
 
 - [Digital Literacy Narrative](/dln-assignment/)
 - [Digital Library of the Middle East](/dlme-assignment/)
